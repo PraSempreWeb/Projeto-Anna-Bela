@@ -14,18 +14,21 @@ Segundo projeto desenvolvido no curso Desenvolvimento Web Completo 2021 - 20 cur
 
 
 
-
-
-
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/77255300/105902508-8228ab00-5ffd-11eb-9af7-d2e0dd4f22ee.png" width=200><img src="https://user-images.githubusercontent.com/77255300/105901769-95874680-5ffc-11eb-84c0-8076abf1f72f.png" width=200>
-
+HTML5 | CSS3
+------|------
+<img src="https://user-images.githubusercontent.com/77255300/105902508-8228ab00-5ffd-11eb-9af7-d2e0dd4f22ee.png" width=250> | <img src="https://user-images.githubusercontent.com/77255300/105901769-95874680-5ffc-11eb-84c0-8076abf1f72f.png" width=200> 
 <img src="https://user-images.githubusercontent.com/77255300/105891389-5b637800-5fef-11eb-994c-f43a659ce434.png" width=500>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
