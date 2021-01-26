@@ -23,7 +23,7 @@ Segundo projeto desenvolvido no curso Desenvolvimento Web Completo 2021 - 20 cur
 
 
 
-![](D:\13 - PASTA CENTARL DO GIT - PROJETOS\03 - PROJETO ANNA BELLA\Projeto-Anna-Bela\img\udemy.png)
+![udemy](https://user-images.githubusercontent.com/77255300/105891389-5b637800-5fef-11eb-994c-f43a659ce434.png)
 
 
 
