@@ -31,7 +31,7 @@ Segundo projeto desenvolvido no curso Desenvolvimento Web Completo 2021 - 20 cur
 
 
 
-Desenvolvido por: ```Cristiano Bonifácio```  
+Desenvolvido por: [```Cristiano Bonifácio```](https://www.linkedin.com/in/prasempreweb/)  
 
 Professor: ```Jamilton Damasceno```  
 
